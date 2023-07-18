@@ -1,0 +1,205 @@
+.nav-link {
+    font-size: 18px;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+.navbar-links {
+    text-align: end;
+    justify-content: end;
+}
+
+.about-css {
+    margin-top: 130px;
+    background-color: #18a5cc;
+}
+
+.section-heading {
+    margin-top: 80px;
+    color: white;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: white;
+}
+
+.fcontent-css {
+    margin-top: 50px;
+}
+
+.fc-heading {
+    padding-bottom: 30px;
+    color: #130380;
+}
+
+.fc-paragraph {
+    font-size: 20px;
+}
+
+@media(max-width:400px) {
+    .fc-corousel {
+        display: none;
+    }
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.events-css {
+    margin-top: 30px;
+    background-color: #f2f2f2;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.event-heading {
+    padding-bottom: 30px;
+}
+
+.card {
+    height: 640px;
+}
+
+@media screen and (max-width:800px) {
+    .card {
+        height: 650px;
+    }
+}
+
+.events-card-img {
+    width: 100%;
+    height: 300px;
+}
+
+.past-events {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.past-events .card {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*****RECENT JOB SECTION RECENT JOB SECTION*****/
+
+.recent-job {
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-color: #f2f2f2;
+}
+
+.recent-job-heading {
+    text-align: center;
+    color: #343a40;
+}
+
+.recent-job-sub-heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.recent-job-list {
+    background-color: white;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.job-title {
+    font-size: 20px;
+}
+
+.job-company {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.job-company i {
+    color: orange;
+    margin-left: 10px;
+}
+
+.job-skill {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.job-apply-button {
+    background: #1f1f23;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+
+
+/******FEATURE SECTION******/
+
+.feature-sect {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.feature-panel {
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #f0f3fa;
+}
+
+.feature-title {
+    padding-top: 20px
+}
+
+.feature-desc {
+    margin-top: 10px;
+}
+
+.feature-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 80px;
+    background-color: white;
+}
+
+.feature-btn {
+    background-color: #1f1f23;
+    height: 35px;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-size: 13px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+/* footer section */
+
+.social-media-css {
+    padding: 30px;
+}
+
+.social-media-icons {
+    padding: 10px;
+    font-size: 23px;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1f1f23;
+}
+
+.footer p {
+    color: white;
+    padding-bottom: 20px;
+}
